@@ -45,7 +45,6 @@ I build projects to learn how things actually work, not to look busy.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Iliyakarimi020304&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-
 ---
 
 ## 🧭 Current Focus
